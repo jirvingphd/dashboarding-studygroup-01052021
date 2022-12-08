@@ -41,7 +41,7 @@ bz2file==0.98
 cachetools==4.1.1
 catalogue==1.0.0
 catboost==0.23.2
-certifi==2020.12.5
+certifi==2022.12.7
 cffi==1.14.1
 chardet==3.0.4
 chart-studio==1.1.0
